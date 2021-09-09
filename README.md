@@ -1,1 +1,1 @@
-# opusgest
+# Opus Grand Est
